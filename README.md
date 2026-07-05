@@ -40,8 +40,6 @@ Insurance-MachineLearning-Project/
 │── requirements.txt
 ```
 
-> *(Update the structure if your repository is different.)*
-
 ---
 
 ## 🛠️ Technologies Used
